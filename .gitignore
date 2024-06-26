@@ -1,1 +1,3 @@
 server/node_modules
+file_uploader/node_modules
+aiServer/app/__pycache__/
