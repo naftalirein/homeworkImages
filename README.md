@@ -1,5 +1,5 @@
 # homeworkImages
-Automates the setup and launch of multiple services for our application, including an AI server, Node.js server, and file uploader.
+Launch of multiple services for our application, including an AI server, Node.js server, and file uploader.
 
 ## 🚀 Quick Start
 
